@@ -1,7 +1,8 @@
 import os
 
 '''
-    This is a test of Visual Studio for Pyton work
+    This is a test of Visual Studio
+    as Pytbon 3 IDE
 '''
 
 print('hello world')
