@@ -13,7 +13,8 @@ msg = EmailMessage()
 msg['Subject'] = "Printheads"
 msg['From'] = Address("Mike Mueller", "muellerm111", "frontier.com")
 msg['To'] = (Address("Muellers", "m2", "themuellers.us"),
-             Address("beach 5520", "88b34hjm", "hpeprint.com"))
+             Address("beach 5520", "88b34hjm", "hpeprint.com"),
+             Address("warehouse 5520", "998wtp3379x", "hpeprint.com"))
 
 
 msg.set_content('...........')  # Not at all sure what this does
